@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Ahmed Ibrahim
+Full Stack Developer (.NET)
 
-<!--
-**AhmedIbraheem732/AhmedIbraheem732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a Full Stack Developer with strong focus on backend development using ASP.NET Core. I build scalable RESTful APIs and integrate them with modern frontend applications.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- LINQ
+- REST APIs
+- JavaScript / HTML / CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+
+### 🔹 E-Commerce System
+- Full Stack Web App (ASP.NET Core + Frontend)
+- Authentication & Authorization (JWT)
+- Product & Order Management
+- SQL Server Database
+
+### 🔹 Task Management API
+- RESTful API using ASP.NET Core
+- CRUD operations
+- Clean Architecture
+- Optimized queries using LINQ
+
+## 📫 Contact Me
+- LinkedIn: https://www.linkedin.com/in/ahmedibraheem-me
+- GitHub: https://github.com/AhmedIbraheem732
